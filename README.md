@@ -4,4 +4,4 @@ Hi there! My name is Kailash Muthu. The following repository is the code for my 
 
 The website is currently built with Vanilla.js, Ecmascript, HTML, and CSS. 
 
-I plan to convert this application to Angular.js in the future.
+I plan to convert this application to an Angular.js front-end in the future.
